@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "oPYbfQWQuNPbSAAiwgeCIlodS5TOFpOTiPCFgUcZCMU=",
+  "Source": "EventGenerator.Api",
+  "BasePath": "_content/EventGenerator.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,17 @@
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventProcessor.Consumer\bin\Debug\net6.0\EventProcessor.Consumer.deps.json
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventProcessor.Consumer\bin\Debug\net6.0\EventProcessor.Consumer.dll
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventProcessor.Consumer\bin\Debug\net6.0\EventProcessor.Consumer.pdb
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventProcessor.Consumer\bin\Debug\net6.0\EventProcessor.Domain.dll
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventProcessor.Consumer\bin\Debug\net6.0\EventProcessor.Producer.dll
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventProcessor.Consumer\bin\Debug\net6.0\EventProcessor.Producer.pdb
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventProcessor.Consumer\bin\Debug\net6.0\EventProcessor.Domain.pdb
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventProcessor.Consumer\obj\Debug\net6.0\EventProcessor.Consumer.csproj.AssemblyReference.cache
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventProcessor.Consumer\obj\Debug\net6.0\EventProcessor.Consumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventProcessor.Consumer\obj\Debug\net6.0\EventProcessor.Consumer.AssemblyInfoInputs.cache
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventProcessor.Consumer\obj\Debug\net6.0\EventProcessor.Consumer.AssemblyInfo.cs
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventProcessor.Consumer\obj\Debug\net6.0\EventProcessor.Consumer.csproj.CoreCompileInputs.cache
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventProcessor.Consumer\obj\Debug\net6.0\EventPro.F13CB18A.Up2Date
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventProcessor.Consumer\obj\Debug\net6.0\EventProcessor.Consumer.dll
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventProcessor.Consumer\obj\Debug\net6.0\refint\EventProcessor.Consumer.dll
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventProcessor.Consumer\obj\Debug\net6.0\EventProcessor.Consumer.pdb
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventProcessor.Consumer\obj\Debug\net6.0\ref\EventProcessor.Consumer.dll

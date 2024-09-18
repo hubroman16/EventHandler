@@ -1,0 +1,15 @@
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventGenerator.Application\bin\Debug\net8.0\EventGenerator.Application.deps.json
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventGenerator.Application\bin\Debug\net8.0\EventGenerator.Application.dll
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventGenerator.Application\bin\Debug\net8.0\EventGenerator.Application.pdb
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventGenerator.Application\bin\Debug\net8.0\EventGenerator.Domain.dll
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventGenerator.Application\bin\Debug\net8.0\EventGenerator.Domain.pdb
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventGenerator.Application\obj\Debug\net8.0\EventGenerator.Application.csproj.AssemblyReference.cache
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventGenerator.Application\obj\Debug\net8.0\EventGenerator.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventGenerator.Application\obj\Debug\net8.0\EventGenerator.Application.AssemblyInfoInputs.cache
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventGenerator.Application\obj\Debug\net8.0\EventGenerator.Application.AssemblyInfo.cs
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventGenerator.Application\obj\Debug\net8.0\EventGenerator.Application.csproj.CoreCompileInputs.cache
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventGenerator.Application\obj\Debug\net8.0\EventGen.E7D4BEF4.Up2Date
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventGenerator.Application\obj\Debug\net8.0\EventGenerator.Application.dll
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventGenerator.Application\obj\Debug\net8.0\refint\EventGenerator.Application.dll
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventGenerator.Application\obj\Debug\net8.0\EventGenerator.Application.pdb
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventGenerator.Application\obj\Debug\net8.0\ref\EventGenerator.Application.dll

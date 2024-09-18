@@ -1,0 +1,11 @@
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventGenerator.Domain\bin\Debug\net8.0\EventGenerator.Domain.deps.json
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventGenerator.Domain\bin\Debug\net8.0\EventGenerator.Domain.dll
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventGenerator.Domain\bin\Debug\net8.0\EventGenerator.Domain.pdb
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventGenerator.Domain\obj\Debug\net8.0\EventGenerator.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventGenerator.Domain\obj\Debug\net8.0\EventGenerator.Domain.AssemblyInfoInputs.cache
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventGenerator.Domain\obj\Debug\net8.0\EventGenerator.Domain.AssemblyInfo.cs
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventGenerator.Domain\obj\Debug\net8.0\EventGenerator.Domain.csproj.CoreCompileInputs.cache
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventGenerator.Domain\obj\Debug\net8.0\EventGenerator.Domain.dll
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventGenerator.Domain\obj\Debug\net8.0\refint\EventGenerator.Domain.dll
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventGenerator.Domain\obj\Debug\net8.0\EventGenerator.Domain.pdb
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventGenerator.Domain\obj\Debug\net8.0\ref\EventGenerator.Domain.dll

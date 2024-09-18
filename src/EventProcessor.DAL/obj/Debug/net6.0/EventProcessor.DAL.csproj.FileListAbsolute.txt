@@ -1,0 +1,15 @@
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventProcessor.DAL\bin\Debug\net6.0\EventProcessor.DAL.deps.json
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventProcessor.DAL\bin\Debug\net6.0\EventProcessor.DAL.dll
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventProcessor.DAL\bin\Debug\net6.0\EventProcessor.DAL.pdb
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventProcessor.DAL\bin\Debug\net6.0\EventProcessor.Domain.dll
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventProcessor.DAL\bin\Debug\net6.0\EventProcessor.Domain.pdb
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventProcessor.DAL\obj\Debug\net6.0\EventProcessor.DAL.csproj.AssemblyReference.cache
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventProcessor.DAL\obj\Debug\net6.0\EventProcessor.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventProcessor.DAL\obj\Debug\net6.0\EventProcessor.DAL.AssemblyInfoInputs.cache
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventProcessor.DAL\obj\Debug\net6.0\EventProcessor.DAL.AssemblyInfo.cs
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventProcessor.DAL\obj\Debug\net6.0\EventProcessor.DAL.csproj.CoreCompileInputs.cache
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventProcessor.DAL\obj\Debug\net6.0\EventPro.28101CC2.Up2Date
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventProcessor.DAL\obj\Debug\net6.0\EventProcessor.DAL.dll
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventProcessor.DAL\obj\Debug\net6.0\refint\EventProcessor.DAL.dll
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventProcessor.DAL\obj\Debug\net6.0\EventProcessor.DAL.pdb
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventProcessor.DAL\obj\Debug\net6.0\ref\EventProcessor.DAL.dll

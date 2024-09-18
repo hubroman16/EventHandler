@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kuCA18TJ4Jl6ACaXNUt/TdkEu9M/qXsN0tJz3jfvDYo=",
+  "Source": "EventProcessor.Api",
+  "BasePath": "_content/EventProcessor.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

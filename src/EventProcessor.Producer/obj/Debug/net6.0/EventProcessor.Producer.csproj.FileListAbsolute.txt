@@ -1,0 +1,15 @@
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventProcessor.Producer\bin\Debug\net6.0\EventProcessor.Producer.deps.json
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventProcessor.Producer\bin\Debug\net6.0\EventProcessor.Producer.dll
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventProcessor.Producer\bin\Debug\net6.0\EventProcessor.Producer.pdb
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventProcessor.Producer\bin\Debug\net6.0\EventProcessor.Domain.dll
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventProcessor.Producer\bin\Debug\net6.0\EventProcessor.Domain.pdb
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventProcessor.Producer\obj\Debug\net6.0\EventProcessor.Producer.csproj.AssemblyReference.cache
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventProcessor.Producer\obj\Debug\net6.0\EventProcessor.Producer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventProcessor.Producer\obj\Debug\net6.0\EventProcessor.Producer.AssemblyInfoInputs.cache
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventProcessor.Producer\obj\Debug\net6.0\EventProcessor.Producer.AssemblyInfo.cs
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventProcessor.Producer\obj\Debug\net6.0\EventProcessor.Producer.csproj.CoreCompileInputs.cache
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventProcessor.Producer\obj\Debug\net6.0\EventPro.72818AF8.Up2Date
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventProcessor.Producer\obj\Debug\net6.0\EventProcessor.Producer.dll
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventProcessor.Producer\obj\Debug\net6.0\refint\EventProcessor.Producer.dll
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventProcessor.Producer\obj\Debug\net6.0\EventProcessor.Producer.pdb
+C:\Users\roman\Documents\моя визитка\csharp\EventHandler\src\EventProcessor.Producer\obj\Debug\net6.0\ref\EventProcessor.Producer.dll
